@@ -3,10 +3,6 @@
 
 <p align="center">I'm a dedicated software developer with experience in building web and mobile applications, leveraging my skills in modern technologies to deliver efficient and scalable solutions. I enjoy tackling challenges and continuously learning to grow both professionally and personally.</p>
 
-- 🔭 I’m currently working on **[Your Current Project/Goal]**  
-- 🌱 I’m learning **[Technologies or Topics You’re Exploring, e.g., React, DevOps]**  
-- 👯 I’m looking to collaborate on **[Specific Type of Projects, e.g., Open Source, Web Development]**  
-- ⚡ Fun fact: **[Optional Fun Fact About Yourself]**  
 - 📫 How to reach me: **jpool.1111.2000@gmail.com**
 
 ---
